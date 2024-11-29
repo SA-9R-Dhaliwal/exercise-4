@@ -1,0 +1,12 @@
+ body{
+      background-color: dimgrey;
+
+     }
+
+.container {
+	background-color:skyblue;
+	padding:12px;
+	box-shadow: 62px 58px 263px -66px rgba(242,43,43,1);
+-webkit-box-shadow: 62px 58px 263px -66px rgba(242,43,43,1);
+-moz-box-shadow: 62px 58px 263px -66px rgba(242,43,43,1);
+}
